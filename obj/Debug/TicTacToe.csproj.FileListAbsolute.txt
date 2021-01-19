@@ -1,0 +1,21 @@
+C:\Users\A\source\repos\Subs\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Subs\obj\Debug\TicTacToe.Form1.resources
+C:\Users\A\source\repos\Subs\obj\Debug\Subs.Properties.Resources.resources
+C:\Users\A\source\repos\Subs\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\A\source\repos\Subs\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Subs\obj\Debug\Subs.exe
+C:\Users\A\source\repos\Subs\obj\Debug\Subs.pdb
+C:\Users\A\source\repos\Subs\bin\Debug\Subs.exe.config
+C:\Users\A\source\repos\Subs\bin\Debug\Subs.exe
+C:\Users\A\source\repos\Subs\bin\Debug\Subs.pdb
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.Mainform.resources
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.About.resources
