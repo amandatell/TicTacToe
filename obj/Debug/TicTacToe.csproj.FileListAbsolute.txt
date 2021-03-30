@@ -19,3 +19,14 @@ C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.exe
 C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.pdb
 C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
 C:\Users\A\Desktop\C#\Assignment 7\TicTacToe\obj\Debug\TicTacToe.About.resources
+C:\Users\amand\Source\Repos\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\amand\Source\Repos\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\amand\Source\Repos\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.About.resources
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.MainForm.resources
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\amand\Source\Repos\TicTacToe\obj\Debug\TicTacToe.pdb
